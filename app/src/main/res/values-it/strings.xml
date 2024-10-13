@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ItemInventory</string>
+
+    <string name="title_visualize">Visualizza</string>
+    <string name="title_search">Ricerca</string>
+    <string name="title_add">Aggiunta</string>
+
+</resources>
